@@ -6,6 +6,8 @@ html {
 body {
   text-align: center;
   font-size: 16pt;
+  background-color: black;
+  color: white;
 }
 
 .bold {
